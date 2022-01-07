@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, meu nome é Felipe Rico Gazapina 👋
 ## Seja bem-vindo ao meu perfil
 
 - 🔭 Atualmente estou trabalhando com PHP, REACT e sou Desenvolvedor FullStack (PS: meus trabalhos em php são mais dispostos no bitbucket)
@@ -8,8 +8,8 @@
 ### Aqui esta disponível meus status:
 <div align="center">
   <a href="https://github.com/FelipeGazapina">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FelipeGazapina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Felipe Rico Gazapina status"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGazapina&layout=compact&langs_count=10&theme=midnight-purple&exclude_repo=calculadoraPython,pythonTeste&custom_title=Linguagens mais utilizadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGazapina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Felipe Rico Gazapina status"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGazapina&layout=compact&langs_count=10&theme=midnight-purple&exclude_repo=calculadoraPython,pythonTeste&custom_title=Linguagens mais utilizadas"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
