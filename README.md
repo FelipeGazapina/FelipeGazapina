@@ -28,3 +28,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<!--   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeGazapina&repo=Projeto-Integrador-I&theme=midnight-purple)](https://github.com/FelipeGazapina/Projeto-Integrador-I) -->
