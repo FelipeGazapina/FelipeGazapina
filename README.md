@@ -1,7 +1,7 @@
 ### Olá, meu nome é Felipe Rico Gazapina 👋
 ## Seja bem-vindo ao meu perfil
 
-- 🔭 Atualmente estou trabalhando com PHP, REACT e sou Desenvolvedor FullStack (PS: meus trabalhos em php são mais dispostos no bitbucket)
+- 🔭 Atualmente estou trabalhando com PHP, REACTJS, NODEJS e sou Desenvolvedor FullStack (PS: meus trabalhos em php são mais dispostos no bitbucket)
 - 🌱 Estou mais focado em aprender sobre infra de hospedagem para acabar completando todo o ciclo de conhecimento
 - 😄 Pronouns: ele/dele
 
