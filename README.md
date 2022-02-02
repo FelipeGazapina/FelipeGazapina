@@ -2,7 +2,7 @@
 ## Seja bem-vindo ao meu perfil
 
 - 🔭 Atualmente estou trabalhando com PHP, REACTJS, NODEJS e sou Desenvolvedor FullStack (PS: meus trabalhos em php são mais dispostos no bitbucket)
-- 🌱 Estou mais focado em aprender sobre infra de hospedagem para acabar completando todo o ciclo de conhecimento
+- 🌱 Estou me aprendendo desenvolvimento mobile, Estudando Flutter para ter o melhor aproveitamento dos dois mundos IOS/ANDROID
 - 😄 Pronouns: ele/dele
 
 ### Aqui esta disponível meus status:
