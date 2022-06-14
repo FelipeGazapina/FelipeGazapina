@@ -17,7 +17,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/undefined/vue-js.png"/>
   <div></div>
+  <img src="https://img.icons8.com/stickers/100/undefined/laravel.png"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/php-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/maria-db.png"/>
