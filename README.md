@@ -5,10 +5,22 @@
 - 😄 Pronouns: ele/dele
 
 ### Aqui esta disponível meus status:
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/FelipeGazapina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGazapina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Felipe Rico Gazapina status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGazapina&layout=compact&langs_count=10&theme=midnight-purple&exclude_repo=calculadoraPython,pythonTeste&custom_title=Linguagens mais utilizadas"/>
+</div> -->
+<div align="center">
+<table>
+    <tr>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=FelipeGazapina&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
+      </td>
+      <td align="center" style="padding=0;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGazapina&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" />
+      </td>
+    </tr>
+</table>
 </div>
 
 ### Linguagens aprendidas 
