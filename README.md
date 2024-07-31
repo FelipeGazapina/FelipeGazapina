@@ -38,14 +38,14 @@ Estou sempre disposto a oferecer o meu melhor, com foco em resultados e no desen
 <!--   <img src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> -->
 </div>
+
 ### Linguagens Aprendidas 
+
 <div style="display: inline_block"><br>
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   <img src="https://img.icons8.com/color/48/000000/golang.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
-  ##
- <div> 
-</div>
+
 <!--   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeGazapina&repo=Projeto-Integrador-I&theme=midnight-purple)](https://github.com/FelipeGazapina/Projeto-Integrador-I) -->
