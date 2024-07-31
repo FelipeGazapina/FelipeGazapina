@@ -21,20 +21,8 @@ Estou sempre disposto a oferecer o meu melhor, com foco em resultados e no desen
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGazapina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Felipe Rico Gazapina status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGazapina&layout=compact&langs_count=10&theme=midnight-purple&exclude_repo=calculadoraPython,pythonTeste&custom_title=Linguagens mais utilizadas"/>
 </div> -->
-<div align="center">
-<table>
-    <tr>
-      <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=FelipeGazapina&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
-      </td>
-      <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGazapina&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true&exclude_repo=calculadoraPython,pythonTeste" />
-      </td>
-    </tr>
-</table>
-</div>
 
-### Linguagens aprendidas 
+### Linguagens Trabalhadas 
 <div style="display: inline_block"><br>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -50,13 +38,14 @@ Estou sempre disposto a oferecer o meu melhor, com foco em resultados e no desen
 <!--   <img src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> -->
 </div>
-      
+### Linguagens Aprendidas 
+<div style="display: inline_block"><br>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+</div>
   ##
  <div> 
-   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 <!--   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeGazapina&repo=Projeto-Integrador-I&theme=midnight-purple)](https://github.com/FelipeGazapina/Projeto-Integrador-I) -->
