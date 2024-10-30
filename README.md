@@ -47,5 +47,10 @@ Estou sempre disposto a oferecer o meu melhor, com foco em resultados e no desen
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FelipeGazapina}/count.svg" /></p> 
+<br>
+</div>
 <!--   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeGazapina&repo=Projeto-Integrador-I&theme=midnight-purple)](https://github.com/FelipeGazapina/Projeto-Integrador-I) -->
