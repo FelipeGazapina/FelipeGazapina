@@ -1,19 +1,16 @@
 ### Olá! Meu nome é Felipe Rico Gazapina, sou uma pessoa empenhada e dedicada em ajudar a empresa crescer 👋
 
-Estou sempre disposto a oferecer o meu melhor, com foco em resultados e no desenvolvimento de soluções criativas e eficientes. Busco sempre novos desafios e oportunidades de aprendizado. Acredito que a comunicação e o trabalho em equipe são essenciais para o sucesso de qualquer empreendimento, e me esforço ao máximo para ser um colaborador comprometido e engajado.
+Comecei na área em 2020 de forma autonoma, sempre aprendedo e desenvolvendo projetos solos, em 2021 percebi que para entrar definitivamente no mercado de trabalho seria necessário ter uma graduação.
+No meu segundo semestre da faculdade fui contratado como Treinee, onde aprendi toda a base e me desenvolvi com os problemas que tive que enfrentar, sendo desde acesso a dados sensíveis até projetos difíceis de lidar.
 
-## Responsabilidades
-- Gerenciar e manter todos os aspectos de nossa infraestrutura de TI, incluindo hardware, software e redes.
-- Liderar e contribuir para projetos de desenvolvimento de software, desde o design até a implantação.
-- Colaborar com equipes multifuncionais para identificar e resolver problemas técnicos.
-- Contratar, treinar e gerenciar uma equipe de desenvolvedores e profissionais de TI.
-- Desenvolver e manter políticas e procedimentos de TI, garantindo conformidade com padrões e regulamentações da indústria.
-- Monitorar o desempenho e a segurança do sistema, identificando e abordando problemas conforme necessário.
-- Desenvolver e manter aplicativos da web de alta qualidade em todas as áreas do desenvolvimento de software, incluindo front-end, back-end e banco de dados.
-- Participar de todo o processo de desenvolvimento de software, desde o design até a implementação e manutenção.
-- Colaborar com equipes multifuncionais para identificar e resolver problemas técnicos.
-- Identificar e implementar melhorias em nossos processos de desenvolvimento de software.
-- Garantir a qualidade do software desenvolvido por meio de testes rigorosos e revisões de código.
+Nesta etapa passei em torno de 2 anos da minha carreira.
+Após esse periodo fui convidado a ter uma posíção mais elevada em uma empresa pequena, que não teriam superiores a mim na área de TI.
+Nesse período me foquei muito em DevOps, foi onde aprendi e coloquei em prática o desenvolvimento de sites do inicio ao fim, instalando ambientes e bancos de dados.
+Graças a essa etapa sou um profissional que sabe o inicio ao fim do processo de desenvolvimento. Isso durou mais 1 ano e 6 meses.
+
+Nesta minha última etapa e a mais atual, fui contratado por uma empresa grande de desenvolvimento de software, nela tenho aprendido de tudo e mais um pouco. Entretanto o foco tem sido em qualidade, organização e comunicação.
+
+Com essas experiências me considero um profissional capaz de organizar, pensar, escrever, desenvolver e evoluir qualquer projeto que me seja imposto.
 
 ### Aqui esta disponível meus status:
 <!-- <div align="center">
